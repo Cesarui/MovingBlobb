@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 5572693952916041620}
   - component: {fileID: 7372746855031628966}
   - component: {fileID: 4458284148815852143}
+  - component: {fileID: 2115566328222508030}
   m_Layer: 0
   m_Name: P3
   m_TagString: Untagged
@@ -123,6 +124,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   player: {fileID: 0}
   speed: 14.45
+--- !u!114 &2115566328222508030
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 588613267647760943}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1bfe62c68fbee9c419203e8296de807b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &963494583195497445
 GameObject:
   m_ObjectHideFlags: 0
@@ -136,6 +149,7 @@ GameObject:
   - component: {fileID: 3005216702617195482}
   - component: {fileID: 4776458722792903996}
   - component: {fileID: 6682825554905628001}
+  - component: {fileID: 1005164320534987057}
   m_Layer: 0
   m_Name: P6
   m_TagString: Untagged
@@ -246,6 +260,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   player: {fileID: 0}
   speed: 14.45
+--- !u!114 &1005164320534987057
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 963494583195497445}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1bfe62c68fbee9c419203e8296de807b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1544053657187873539
 GameObject:
   m_ObjectHideFlags: 0
@@ -259,6 +285,7 @@ GameObject:
   - component: {fileID: 7835774731952062972}
   - component: {fileID: 1154680225563927547}
   - component: {fileID: 4601507624584074024}
+  - component: {fileID: 3982658175389308839}
   m_Layer: 0
   m_Name: P1
   m_TagString: Untagged
@@ -369,6 +396,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   player: {fileID: 0}
   speed: 14.45
+--- !u!114 &3982658175389308839
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1544053657187873539}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1bfe62c68fbee9c419203e8296de807b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1698022546125745370
 GameObject:
   m_ObjectHideFlags: 0
@@ -382,6 +421,7 @@ GameObject:
   - component: {fileID: 1852908873399605600}
   - component: {fileID: 4025442466182458059}
   - component: {fileID: 5430272589910562868}
+  - component: {fileID: 1227453590941904453}
   m_Layer: 0
   m_Name: P5
   m_TagString: Untagged
@@ -492,6 +532,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   player: {fileID: 0}
   speed: 14.45
+--- !u!114 &1227453590941904453
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1698022546125745370}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1bfe62c68fbee9c419203e8296de807b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1819724985269357921
 GameObject:
   m_ObjectHideFlags: 0
@@ -505,6 +557,7 @@ GameObject:
   - component: {fileID: 4203604234139284437}
   - component: {fileID: 6549800019958417650}
   - component: {fileID: 8697582623142198280}
+  - component: {fileID: 8303378939228414393}
   m_Layer: 0
   m_Name: P4
   m_TagString: Untagged
@@ -615,6 +668,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   player: {fileID: 0}
   speed: 14.45
+--- !u!114 &8303378939228414393
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1819724985269357921}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1bfe62c68fbee9c419203e8296de807b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1922766426368428088
 GameObject:
   m_ObjectHideFlags: 0
@@ -665,6 +730,7 @@ GameObject:
   - component: {fileID: 2864979407223543268}
   - component: {fileID: 3007135237061189337}
   - component: {fileID: 8682115550828992905}
+  - component: {fileID: 2081057722512678815}
   m_Layer: 0
   m_Name: P2
   m_TagString: Untagged
@@ -775,3 +841,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   player: {fileID: 0}
   speed: 14.45
+--- !u!114 &2081057722512678815
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2544101308766925056}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1bfe62c68fbee9c419203e8296de807b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
